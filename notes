@@ -1,0 +1,12 @@
+
+--if alfredInput contains searchValue
+--while context is null
+----if word (x) is not searchValue
+------x+
+----else
+-------for y = 1, y++, y=x
+---------
+
+on multiParse(inputValue)
+set cont
+
